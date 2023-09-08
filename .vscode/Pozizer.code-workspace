@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true
+  },
+  "extensions": {
+    "recommendations": ["esbenp.prettier-vscode"]
+  }
+}
